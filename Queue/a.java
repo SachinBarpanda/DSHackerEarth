@@ -6,6 +6,11 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/*
+If anyone try solving it please do because the java solution is not working for now by 
+this method.
+*/
+
 class a {
     public static void main(String[] args) throws IOException{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
